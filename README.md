@@ -18,3 +18,5 @@ automatically by the test_000 executable.
 You can use this repository as a template for new Humoto modules -- for this
 purpose you have to replace the mock module 'extra_modules/example' with your
 code.
+
+Currently static obstacles only.
