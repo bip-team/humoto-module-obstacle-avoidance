@@ -11,8 +11,9 @@ The example module is compiled with 'make all' command. You can learn the
 necessary cmake parameters for Humoto compilation scripts by reading Makefile.
 
 Tests are compiled with 'make tests'. The executable tests_000 gives output 
-whcih can be read using  Python script included in the module which will plot
-the trajectoryof the robot with obstacles.
+whcih can be read using Python script included in the module which will plot
+the trajectory of the robot with obstacles. Python script will be written 
+automatically by the test_000 executable.
 
 You can use this repository as a template for new Humoto modules -- for this
 purpose you have to replace the mock module 'extra_modules/example' with your
